@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Hacking My Way Through Bandit Wargames
 ---
 
